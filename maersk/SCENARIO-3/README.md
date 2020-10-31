@@ -8,4 +8,4 @@
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/10.png)
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/11.png)
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/12.png)
-![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/13.png)
+
