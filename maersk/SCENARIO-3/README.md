@@ -6,6 +6,11 @@
 4) The CI/CD pipelines for microservices should be implemented using Azure DevOps services.
 
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/10.png)
+
+5) The Azure DevOps should be able to access ACR and download the container images for microservices deployment
+6) The image should be deployed as templates such as <image_name>:<build_id>
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/11.png)
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/12.png)
+
+
 
