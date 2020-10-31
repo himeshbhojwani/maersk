@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: FastCarz-dev
+  name: FastCarz-dev
+  namespace: ingress-nginx
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: FastCarz-dev
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: FastCarz-dev
+    spec:
+      containers:
+      - image: FastCarzACR.azurecr.io/FastCarz-api:20201031.1
+        name: FastCarz-api
+        resources: {}
+status: {}
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: FastCarz-dev
+  namespace: ingress-nginx
+spec:
+  type: ClusterIP
+  ports:
+  - port: 80
+  selector:
+    app: FastCarz-dev
