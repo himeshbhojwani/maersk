@@ -11,6 +11,7 @@
 6) The image should be deployed as templates such as <image_name>:<build_id>
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/11.png)
 ![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/12.png)
-
+![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/17.png)
+![Alt text](https://github.com/himeshbhojwani/maersk/blob/master/maersk/SCENARIO-3/images/18.png)
 
 
